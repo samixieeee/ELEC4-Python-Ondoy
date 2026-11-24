@@ -1,0 +1,3 @@
+Hello from Samantha Ondoy (IV-BSIT-A)!
+This is a sample text file for P4 - Safe Menu Program.
+If you can read this, the file was opened successfully.
