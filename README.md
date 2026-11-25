@@ -102,6 +102,7 @@ python3 p6_recursion.py
 ```
 
 ![P6 all functions](set2/p6/screenshots/p6_all_functions.png)
+![P6 all functions 2](set2/p6/screenshots/p6_all_functions_2.png)
 
 ## P7 · Student Management System with Classes
 
